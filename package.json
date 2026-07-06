@@ -1,0 +1,13 @@
+{
+  "name": "buildintel-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node tests/runTests.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.6"
+  }
+}
